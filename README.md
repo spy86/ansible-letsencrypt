@@ -40,7 +40,7 @@ Example Playbook
         - www.example.com
         - ldap.example.com
         - dev.example.com
-        - exchane.example.com
+        - exchange.example.com
 ```
 
 License
