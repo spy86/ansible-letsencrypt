@@ -1,0 +1,15 @@
+---
+- hosts: servers
+  remote_user: root
+  roles:
+   - role: ansible-letsencrypt
+     vars:
+        letsencrypt_staging: yes
+        letsencrypt_renew: yes
+        letsencrypt_email: "administrator@example.com"
+     letsencrypt_domains:
+        - example.com
+        - www.example.com
+        - ldap.example.com
+        - dev.example.com
+        - exchane.example.com
