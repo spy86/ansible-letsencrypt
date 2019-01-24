@@ -2,7 +2,7 @@ galaxy_info:
   author: Maciej Michalski
   description: Role to obtain SSL certificates.
 
-  issue_tracker_url:
+  issue_tracker_url: https://bitbucket.org/devops_sysops/ansible-letsencrypt/issues?status=new&status=open
   license: MIT
 
   min_ansible_version: 2.0
