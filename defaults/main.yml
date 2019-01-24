@@ -1,2 +1,9 @@
 ---
 # defaults file for ansible-letsencrypt
+
+letsencrypt_path: "/usr/local/bin"
+letsencrypt_staging: no
+letsencrypt_renew: yes
+
+letsencrypt_email: "administrator@{{ ansible_fqdn }}"
+letsencrypt_domains: []
