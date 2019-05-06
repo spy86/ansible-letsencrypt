@@ -1,4 +1,4 @@
-Role ansible letsencrypt 
+Role ansible let's encrypt 
 =========
 
 Role to install and obtain SSL certificates via Letsencrypt
