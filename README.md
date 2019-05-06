@@ -1,4 +1,4 @@
-Role Name
+Role ansible letsencrypt 
 =========
 
 Role to install and obtain SSL certificates via Letsencrypt
@@ -42,9 +42,4 @@ Example Playbook
         - dev.example.com
         - exchange.example.com
 ```
-
-License
--------
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
