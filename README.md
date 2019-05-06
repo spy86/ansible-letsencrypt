@@ -25,7 +25,7 @@ None
 Example Playbook
 ----------------
 
-```YAML
+```yaml
 ---
 - hosts: servers
   remote_user: root
