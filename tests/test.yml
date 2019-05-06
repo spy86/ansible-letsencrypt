@@ -1,5 +1,3 @@
----
 - hosts: all
-  remote_user: root
   roles:
     - { role: ../../ansible-letsencrypt, sudo: Yes }
