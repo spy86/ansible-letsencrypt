@@ -1,5 +1,6 @@
 Role ansible let's encrypt 
 =========
+![ansible-letsencrypt](https://img.shields.io/github/issues/spy86/ansible-letsencrypt.svg) ![ansible-letsencrypt](https://img.shields.io/github/forks/spy86/ansible-letsencrypt.svg) ![ansible-letsencrypt](https://img.shields.io/github/stars/spy86/ansible-letsencrypt.svg) ![ansible-letsencrypt](https://img.shields.io/github/license/spy86/ansible-letsencrypt.svg) ![ansible-letsencrypt](https://img.shields.io/twitter/url/https/github.com/spy86/ansible-letsencrypt.svg?style=social)
 
 Role to install and obtain SSL certificates via Letsencrypt
 
