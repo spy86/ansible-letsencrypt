@@ -1,3 +1,5 @@
 - hosts: all
+  sudo: yes
+  become: yes
   roles:
-    - { role: ../../ansible-letsencrypt, sudo: Yes }
+    - { role: ../../ansible-letsencrypt,  }
