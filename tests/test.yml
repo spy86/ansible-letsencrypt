@@ -2,4 +2,4 @@
   sudo: yes
   become: yes
   roles:
-    - { role: ../../ansible-letsencrypt,  }
+    - { role: ../../ansible-letsencrypt }
