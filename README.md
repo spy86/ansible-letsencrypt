@@ -1,6 +1,6 @@
 Role ansible let's encrypt 
 =========
-
+[![AnsibleTest](https://github.com/spy86/ansible-letsencrypt/actions/workflows/main.yml/badge.svg)](https://github.com/spy86/ansible-letsencrypt/actions/workflows/main.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Role to install and obtain SSL certificates via Letsencrypt
 
